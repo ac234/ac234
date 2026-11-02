@@ -52,8 +52,5 @@ Before: payments, card issuing and Banking-as-a-Service.
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
 ### 📊 Stats
-![stats](https://github-readme-stats.vercel.app/api?username=ac234&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ac234&layout=compact&hide_border=true&theme=transparent)
-
-BSc Computer Science, Heriot-Watt University, UK · Limassol, Cyprus
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandra-cures)
+![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ac234&theme=transparent)
+![langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ac234&theme=transparent)
