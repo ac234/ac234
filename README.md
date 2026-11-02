@@ -1,27 +1,59 @@
-# 💫 About Me:
-🔭 I’m currently working on full-stack development, automating data pipelines, and exploring machine learning and AI solutions.<br><br>👯 I’m looking to collaborate on AI, data analytics, and system optimization projects.<br><br>🤝 I’m looking for help with scaling data systems and applying advanced machine learning techniques.<br><br>🌱 I’m currently learning new AI models and automation frameworks.<br><br>💬 Ask me about full-stack development, machine learning, AI, or data analytics!<br><br>⚡ Fun fact: I love optimizing processes and creating immersive game worlds!
+# Hi 👋
 
+I am full-stack engineer in fintech. I build where money moves.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexandra-cures) 
+Currently: product and engineering at **[hooh.com](https://hooh.com)**.
+Before: payments, card issuing and Banking-as-a-Service.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ac234&theme=swift&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ac234&theme=swift&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ac234&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+### 🔧 What I work on
+- **Correctness-critical paths** — transactions that are auditable, idempotent and recoverable
+- **Event-sourced state** — append-only logs, explicit state machines, reconciliation over blind retry
+- **Real-time delivery** — WebSocket streams, pub/sub, conflated market data
+- **Deterministic engines** — pure reducers: same events in, same state out
+- **Provider integrations** — making third-party APIs behave, reconciling what they return
+- **Delivery pipeline** — migrations with reversible `down()`, CI, unit / integration / browser / pixel tests
+- **Applied AI** — LLM systems end to end, RAG, tools under guardrails (AI proposes, a human confirms)
+- **Optical Music Recognition** — started the project and built its training foundation: a UNet++ semantic-segmentation model on DeepScores (137 symbol classes), the trainer, class weighting, augmentations and Apple Silicon (MPS) optimizations; the pipeline turns sheet-music scans into MusicXML
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ac234&theme=swift&no-frame=false&no-bg=true&margin-w=4)
+### 🛠 Stack — now
+| Area | Tools |
+|---|---|
+| Languages | TypeScript · SQL · Python |
+| Backend | Node · NestJS · Fastify · Zod · Kysely · pg-boss · RxJS · Pino · OpenAPI |
+| Frontend | React · Vite · Tailwind CSS · Zustand · Lightweight Charts |
+| Data & real-time | PostgreSQL · Redis · Centrifugo · WebSockets |
+| Money & brokers | decimal.js · Interactive Brokers API · Alpaca OAuth |
+| Cloud & infra | AWS (ECS, EC2, ALB, RDS, ElastiCache, ECR, Secrets Manager, CloudWatch, SNS, IAM/OIDC) · Terraform · Docker |
+| CI & testing | GitHub Actions · Vitest · Playwright · visual regression · mutation testing |
+| Tooling | pnpm workspaces · ESLint · Supabase Auth · Claude Code |
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+### 🗂 Stack — before
+| Area | Tools |
+|---|---|
+| Languages | Python · C · C++ · C# · JavaScript · HTML/CSS · Bash |
+| Backend | Django · DRF · FastAPI · Flask · Celery · RabbitMQ · Socket.io · JWT · Jinja · Nginx · Swagger |
+| Frontend | jQuery · Bootstrap |
+| Databases | MySQL · MariaDB · Microsoft SQL Server · MongoDB · Neo4j |
+| ML & data | PyTorch · UNet++ · scikit-learn · NumPy · pandas · SciPy · Matplotlib · Anaconda |
+| Cloud & tools | Azure · Office 365 integrations · GitLab |
+| Graphics & games | Unity · Unreal Engine · OpenGL · Blender · Figma · Adobe |
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ac234&limit=5&theme=swift&combine_all_yearly_contributions=true)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=ac234&icon=5&color=10)](https://visitcount.itsvg.in)
+### 📊 Stats
+![stats](https://github-readme-stats.vercel.app/api?username=ac234&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ac234&layout=compact&hide_border=true&theme=transparent)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+BSc Computer Science, Heriot-Watt University, UK · Limassol, Cyprus
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandra-cures)
