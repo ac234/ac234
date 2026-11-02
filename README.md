@@ -50,7 +50,3 @@ Before: payments, card issuing and Banking-as-a-Service.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFD43B)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-### 📊 Stats
-![stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ac234&theme=transparent)
-![langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ac234&theme=transparent)
